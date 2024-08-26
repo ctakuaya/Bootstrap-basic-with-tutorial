@@ -1,0 +1,45 @@
+ .btn-primary {
+         background-color: rgb(39, 184, 133);
+         border-color: green;
+         padding: 25px;
+             /* hover button link */
+         --bs-btn-hover-bg: #5f8262;
+
+} 
+
+a:hover{
+        color:white;
+}
+.fw-normal{
+         padding: 20px;
+}
+.read{
+         padding: 15px;
+}
+
+.d-flex {
+         background-color: rgb(39, 184, 133);
+        
+}
+header{padding-top: 0;}
+
+.nav-link {
+         color: white;
+}
+
+
+.nav{
+         background-color: rgb(108, 199, 167);
+         /* hover nave link */
+         --bs-nav-link-hover-color: #020302;
+}
+.display-5{
+         font-size: 60px;
+         padding-bottom: 50px
+}
+
+ul li{
+
+         margin-left: 3.5em;
+         margin-right: 3.5rem;
+}
